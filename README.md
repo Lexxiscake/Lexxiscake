@@ -46,7 +46,7 @@ Actualmente exploro **inteligencia artificial**, **automatización** y **Redes**
 
 ```yaml
 名前 (Nombre): Luka Torres
-通称 (Alias): Dregxmoon
+通称 (Alias): Lexxiscake
 専攻 (Carrera): Ing. en Sistemas Computacionales
 学校 (Institución): ITT
 状態 (Estado): Estudiante activo
