@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://raw.githubusercontent.com/Lexxiscake/Lexxiscake/main/melt-banner-final.svg" width="100%"/>
 </div>
 <br>
 <!-- ==================== TYPING SVG ==================== -->
