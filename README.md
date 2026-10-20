@@ -104,6 +104,10 @@ Actualmente exploro **inteligencia artificial**, **automatización** y **redes**
 <!-- Generado por la Action snake.yml (rama output) -->
 <img src="https://raw.githubusercontent.com/Lexxiscake/Lexxiscake/output/github-contribution-grid-snake-dark.svg" alt="serpiente de contribuciones"/>
 
+
+
+<img width="920" height="344" alt="a1ccff213f7ea8d2d33be80af5807342" src="https://github.com/user-attachments/assets/605c1433-2407-4188-b86d-a53964fec74c" />
+
 </div>
 
 <br>
