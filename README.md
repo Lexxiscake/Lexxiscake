@@ -66,7 +66,7 @@ Actualmente exploro **inteligencia artificial**, **automatización** y **redes**
 |---|---|
 | **Lenguajes** | C# ・ Python ・ Java |
 | **Frameworks / Plataformas** | .NET ・ Node.js ・ Vite |
-| **Web** | HTML5 ・ CSS3 |
+| **Web** | HTML5 ・ CSS3 ・ Javascript |
 | **Bases de datos** | SQL Server |
 | **Áreas de interés** | Inteligencia Artificial ・ Desarrollo Web ・ Redes |
 
